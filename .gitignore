@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# ignore big csv file
+LoanStats_2019Q1.csv
